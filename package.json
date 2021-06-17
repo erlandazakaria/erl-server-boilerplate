@@ -1,0 +1,21 @@
+{
+  "name": "erl-server-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {"email": "erlandazakaria@gmail.com", "name": "Erlanda Zakaria"},
+  "license": "MIT",
+  "private": "false",
+  "dependencies": {
+    "apollo-server": "^2.25.0",
+    "apollo-server-express": "^2.25.0",
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.12.12",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "dev": "nodemon -r esm ./src/index.js"
+  }
+}
