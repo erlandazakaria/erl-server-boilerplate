@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "60c03c2a8985cfc76c67c1a5"
+  },
+  "name": "Dadang",
+  "email": "dadang@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60c03c488985cfc76c67c1a6"
+  },
+  "name": "Eni",
+  "email": "eni@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60c03c5d8985cfc76c67c1a7"
+  },
+  "name": "Fafa",
+  "email": "fafa@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60c03c798985cfc76c67c1a8"
+  },
+  "name": "Gaga",
+  "email": "gaga@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60c03c8f8985cfc76c67c1a9"
+  },
+  "name": "Hujan",
+  "email": "hujan@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60c03ca58985cfc76c67c1aa"
+  },
+  "name": "Indy",
+  "email": "indy@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60c03cb78985cfc76c67c1ab"
+  },
+  "name": "Jojon",
+  "email": "jojon@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60c03ccd8985cfc76c67c1ac"
+  },
+  "name": "Karin",
+  "email": "karin@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60c03ce18985cfc76c67c1ad"
+  },
+  "name": "Lalap",
+  "email": "lalap@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60c03cf38985cfc76c67c1ae"
+  },
+  "name": "Misi",
+  "email": "misi@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60c03d0a8985cfc76c67c1af"
+  },
+  "name": "Nia",
+  "email": "nia@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60c03d1d8985cfc76c67c1b0"
+  },
+  "name": "Ogah",
+  "email": "ogah@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60cadf442374751f541af6c6"
+  },
+  "name": "Erlanda",
+  "email": "erlandazakaria@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60cadf612374751f541af6c7"
+  },
+  "name": "Ani",
+  "email": "ani@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60cadf722374751f541af6c8"
+  },
+  "name": "Budi",
+  "email": "budi@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60cadf872374751f541af6c9"
+  },
+  "name": "Cica",
+  "email": "cica@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60cafa468325462f78b94085"
+  },
+  "name": "zimbabwe",
+  "email": "zimbabwe@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60cafbe61009a81b54be2644"
+  },
+  "name": "Yinyang",
+  "email": "yinyang@gmail.com",
+  "password": "123",
+  "role": 4
+},{
+  "_id": {
+    "$oid": "60cb0735a2a60606880b9862"
+  },
+  "name": "Admin",
+  "email": "a",
+  "password": "a",
+  "role": 1
+}]
